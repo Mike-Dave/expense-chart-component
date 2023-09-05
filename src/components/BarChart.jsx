@@ -16,7 +16,7 @@ function BarChart({ items }) {
     >
       <div
         className={`bg-softRed w-[2.188rem] rounded-md hover:opacity-80 md:w-[3.125rem] ${
-          items.day === "wed" ? "bg-[#76b5bc]" : ""
+          items.day === "wed" ? "bg-cyan-700" : ""
         }`}
         style={{ height: `${items.amount * 2.8}px` }}
       ></div>
