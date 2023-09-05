@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- [My Solution]()
+- [My Solution](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt/hub?share=true)
 - [Live Site URL](https://expense-chart-mike1.netlify.app/)
 
 ## My process
